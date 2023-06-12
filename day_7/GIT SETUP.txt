@@ -11,4 +11,3 @@ git config --global user.name "Peeyush Sanam"
 git config --global user.email "peeyush.sanam@gmail.com"
 
 git commit -m "your message"
-pqrst
