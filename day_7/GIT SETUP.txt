@@ -11,3 +11,14 @@ git config --global user.name "Peeyush Sanam"
 git config --global user.email "peeyush.sanam@gmail.com"
 
 git commit -m "your message"
+
+git push origin master
+
+# Git Clone
+git clone "<repo_name>"
+
+# Create new branch
+git checkout -b newBranch
+
+# Create new branch from
+git checkout -b newBranch origin/master
