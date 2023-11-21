@@ -1,17 +1,20 @@
 img {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
   }
   
   img:hover {
-    transform: rotate(40deg); }
-  div {
+    transform: rotate(45deg); }
+
+    p:
+  
+  /*div {
     height: 100px;
     width: 100px;
-    background-color: red;
+    background-color: red
     position: absolute;
     z-index: -1;
-  }
+  }*/
   /* div:hover {
     transform: skewY(30deg);  
     /* translate use for change position (top left) */
